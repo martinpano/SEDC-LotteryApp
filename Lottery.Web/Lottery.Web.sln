@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery.Web", "Lottery.Web\Lottery.Web.csproj", "{C093B86B-81F2-4704-B8D5-F747F7AECBE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery.Web.Tests", "Lottery.Web.Tests\Lottery.Web.Tests.csproj", "{243FB206-99A0-43A0-B8EC-43922FD51BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery.Data", "Lottery.Data\Lottery.Data.csproj", "{5C9BEBDD-230E-4036-95E6-3E428C606E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery.Data.Model", "Lottery.Data.Model\Lottery.Data.Model.csproj", "{F3AE2400-B71A-4100-91DE-E0CDF05B5A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery.Service", "Lottery.Service\Lottery.Service.csproj", "{ED8E887A-892E-4C27-AA28-5DBD5EAADB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery.View.Model", "Lottery.View.Model\Lottery.View.Model.csproj", "{6F9E95D5-DD5A-4472-A5EC-8254B5B2FF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery.Mapper", "Lottery.Mapper\Lottery.Mapper.csproj", "{67320E05-B978-4A5C-A035-42F32179EA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C093B86B-81F2-4704-B8D5-F747F7AECBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C093B86B-81F2-4704-B8D5-F747F7AECBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C093B86B-81F2-4704-B8D5-F747F7AECBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C093B86B-81F2-4704-B8D5-F747F7AECBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243FB206-99A0-43A0-B8EC-43922FD51BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243FB206-99A0-43A0-B8EC-43922FD51BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243FB206-99A0-43A0-B8EC-43922FD51BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243FB206-99A0-43A0-B8EC-43922FD51BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9BEBDD-230E-4036-95E6-3E428C606E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9BEBDD-230E-4036-95E6-3E428C606E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9BEBDD-230E-4036-95E6-3E428C606E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9BEBDD-230E-4036-95E6-3E428C606E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3AE2400-B71A-4100-91DE-E0CDF05B5A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AE2400-B71A-4100-91DE-E0CDF05B5A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AE2400-B71A-4100-91DE-E0CDF05B5A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AE2400-B71A-4100-91DE-E0CDF05B5A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8E887A-892E-4C27-AA28-5DBD5EAADB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8E887A-892E-4C27-AA28-5DBD5EAADB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8E887A-892E-4C27-AA28-5DBD5EAADB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8E887A-892E-4C27-AA28-5DBD5EAADB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9E95D5-DD5A-4472-A5EC-8254B5B2FF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9E95D5-DD5A-4472-A5EC-8254B5B2FF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9E95D5-DD5A-4472-A5EC-8254B5B2FF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9E95D5-DD5A-4472-A5EC-8254B5B2FF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67320E05-B978-4A5C-A035-42F32179EA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67320E05-B978-4A5C-A035-42F32179EA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67320E05-B978-4A5C-A035-42F32179EA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67320E05-B978-4A5C-A035-42F32179EA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372994E6-39EB-4A89-8A18-3A930E3A165F}
+	EndGlobalSection
+EndGlobal
