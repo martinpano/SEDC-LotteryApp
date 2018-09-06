@@ -1,6 +1,7 @@
 ﻿using Autofac;
 using Autofac.Integration.WebApi;
 using Lottery.Service;
+using Lottery.Service.IoC.Autofac;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,6 +30,8 @@ namespace Lottery.Web.App_Start
             builder.RegisterApiControllers(Assembly.GetExecutingAssembly());
 
             builder.RegisterType<LotteryManager>().As<ILotteryManager>().InstancePerRequest();
+
+            builder.RegisterModule(new ServiceModule());
 
             return builder.Build();
         }

@@ -16,6 +16,5 @@ namespace Lottery.Data
         IQueryable<T> GetAll();
 
         T GetById(int id);
-
     }
 }
