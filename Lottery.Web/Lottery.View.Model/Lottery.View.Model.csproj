@@ -43,7 +43,14 @@
     <Compile Include="AwardModel.cs" />
     <Compile Include="CodeModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserCodeAwardModel.cs" />
     <Compile Include="UserCodeModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lottery.Data.Model\Lottery.Data.Model.csproj">
+      <Project>{F3AE2400-B71A-4100-91DE-E0CDF05B5A49}</Project>
+      <Name>Lottery.Data.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
