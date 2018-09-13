@@ -1,0 +1,18 @@
+<h2 class="text-center">List of all winners</h2>
+<br><br>
+<div class="container">
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th>Full Name</th>
+          <th>Email</th>
+          <th>Award</th>
+        </tr>
+      </thead>
+      <tr *ngFor="let winner of winners">
+        <td>{{winner.UserCode.FirstName}} {{winner.UserCode.LastName}}</td>
+        <td>{{winner.UserCode.Email}}</td>
+        <td>{{winner.Award.AwardName}}</td>
+      </tr>
+    </table>
+</div>
