@@ -13,7 +13,7 @@ export interface IUserCode{
 }
 
 export interface IAward{
-    awardName: string;
+    AwardName: string;
     awardDescription: string;
 }
 
