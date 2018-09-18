@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { SubmitCodeService } from './submit-code.service';
 import { IUserCode, ICode } from '../winners-list/winners-list.model';
 import { ToastrService } from 'ngx-toastr';
@@ -7,7 +7,8 @@ import { Router } from '@angular/router';
 @Component({
   selector: 'app-submit-code',
   templateUrl: './submit-code.component.html',
-  styleUrls: ['./submit-code.component.css']
+  styleUrls: ['./submit-code.component.css'],
+  encapsulation: ViewEncapsulation.None
 })
 export class SubmitCodeComponent implements OnInit {
 

@@ -1,11 +1,12 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { IUserCodeAward } from './winners-list.model';
 import { WinnersListService } from './winners-list.service';
 
 @Component({
   selector: 'app-winners-list',
   templateUrl: './winners-list.component.html',
-  styleUrls: ['./winners-list.component.css']
+  styleUrls: ['./winners-list.component.css'],
+  encapsulation: ViewEncapsulation.None
 })
 export class WinnersListComponent implements OnInit {
 
