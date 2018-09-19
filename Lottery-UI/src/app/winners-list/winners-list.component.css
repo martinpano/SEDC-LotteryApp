@@ -16,3 +16,8 @@ body{
     background: rgba(51, 50, 50, 0.918);
     border-radius: 20px;
 }
+
+.header{
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.76);
+}

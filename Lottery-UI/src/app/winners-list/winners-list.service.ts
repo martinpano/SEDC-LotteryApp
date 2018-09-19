@@ -9,7 +9,7 @@ import { Observable } from "rxjs";
 
 export class WinnersListService {
 
-    winnersUrl: string = 'http://localhost:52586/api/lottery/'
+    winnersUrl: string = 'http://www.lottery-api.com/api/lottery/'
     constructor(private _http: HttpClient) {
 
     }

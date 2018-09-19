@@ -10,7 +10,7 @@ import { IUserCode, ICode, IAward } from '../winners-list/winners-list.model';
 
 export class SubmitCodeService {
 
-  lotteryUrl: string = "http://localhost:52586/api/lottery/";
+  lotteryUrl: string = "http://www.lottery-api.com/api/lottery/";
 
   constructor(private _http: HttpClient){
 

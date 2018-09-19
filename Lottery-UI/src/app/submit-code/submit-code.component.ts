@@ -19,18 +19,20 @@ export class SubmitCodeComponent implements OnInit {
   }
 
   ngOnInit() {
-
   }
 
   submit() {
-    
+
     this.submitCodeService.submitCode(this.userCode).subscribe((result) => {
-      this.toastrService.success("Dear user you got"+ " "+ result.AwardName, "Winner!");
+      if (!!result) {
+        this.toastrService.success("Dear user you got" + " " + result.AwardName, "Winner!");
+      } else {
+        this.toastrService.info("Better luck next time :(")
+      }
       this.router.navigate(['winners']);
     }, (error) => {
-      
-      this.toastrService.error(error.error.ExceptionMessage, "Error!")
-    })
+      this.toastrService.error(error.error.ExceptionMessage, "Error!");
+      this.router.navigate(['winners']);
+    });
   }
-
 }
