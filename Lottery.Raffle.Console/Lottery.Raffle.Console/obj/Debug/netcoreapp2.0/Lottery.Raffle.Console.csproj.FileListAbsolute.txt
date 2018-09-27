@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\obj\Debug\netcoreapp2.0\Lottery.Raffle.Console.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\obj\Debug\netcoreapp2.0\Lottery.Raffle.Console.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\obj\Debug\netcoreapp2.0\Lottery.Raffle.Console.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\obj\Debug\netcoreapp2.0\Lottery.Raffle.Console.AssemblyInfo.cs
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\bin\Debug\netcoreapp2.0\Lottery.Raffle.Console.deps.json
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\bin\Debug\netcoreapp2.0\Lottery.Raffle.Console.runtimeconfig.json
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\bin\Debug\netcoreapp2.0\Lottery.Raffle.Console.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\bin\Debug\netcoreapp2.0\Lottery.Raffle.Console.dll
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\bin\Debug\netcoreapp2.0\Lottery.Raffle.Console.pdb
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\obj\Debug\netcoreapp2.0\Lottery.Raffle.Console.dll
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\obj\Debug\netcoreapp2.0\Lottery.Raffle.Console.pdb
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Raffle.Console\bin\Debug\netcoreapp2.0\appSettings.json

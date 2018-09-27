@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\bin\Debug\netstandard2.0\Lottery.Data.deps.json
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\bin\Debug\netstandard2.0\Lottery.Data.dll
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\obj\Debug\netstandard2.0\Lottery.Data.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\obj\Debug\netstandard2.0\Lottery.Data.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\obj\Debug\netstandard2.0\Lottery.Data.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\obj\Debug\netstandard2.0\Lottery.Data.AssemblyInfo.cs
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\bin\Debug\netstandard2.0\Lottery.Data.pdb
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\obj\Debug\netstandard2.0\Lottery.Data.dll
+C:\Users\Martin\Desktop\Expert-Csharp\LotteryApplication\SEDC-LotteryApp\Lottery.Raffle.Console\Lottery.Data\obj\Debug\netstandard2.0\Lottery.Data.pdb

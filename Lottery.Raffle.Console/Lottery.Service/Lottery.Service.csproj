@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lottery.Data.Model\Lottery.Data.Model.csproj" />
+    <ProjectReference Include="..\Lottery.Data\Lottery.Data.csproj" />
+  </ItemGroup>
+
+</Project>
